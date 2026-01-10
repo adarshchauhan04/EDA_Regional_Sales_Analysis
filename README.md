@@ -1,4 +1,4 @@
-# EDA_Regional_Sales_Analysis
+# USA_Regional_Sales_Analysis
 <br>
 <h1>Overview</h1>
   <br>
